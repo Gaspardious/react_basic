@@ -2,7 +2,8 @@ import './App.css';
 import Breadtext from './components/breadtext';
 import Header from './components/header';
 import Main from './components/main';
-import order from './components/order_button';
+import Order from './components/order_button';
+import Receipt from './components/receipt_button';
 
 function App() {
   return (
@@ -10,7 +11,8 @@ function App() {
     <Header />
     <Main />
     <Breadtext />
-    <order />
+    <Order />
+    <Receipt />
   </div>
   );
 }

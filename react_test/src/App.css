@@ -9,17 +9,13 @@
   color: red;
 }
 
-.header, .main, .breadtext {
+.header, .main, .breadtext, .order_button, .receipt_button {
   background: #605858;
   margin: 0 auto;
   padding: 0;
   width: 390px;
   padding: 10px;
   color: whitesmoke
-}
-
-.main__content {
-  margin: 0 auto;
 }
 
 .logo {
