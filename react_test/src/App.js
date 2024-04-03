@@ -1,15 +1,17 @@
 import './App.css';
 import Breadtext from './components/breadtext';
-import Title from './components/title';
+import Header from './components/header';
+import Main from './components/main';
+import order from './components/order_button';
 
 function App() {
   return (
-<div>
-  <Title />
-  <Breadtext />
-</div>
-
-
+  <div>
+    <Header />
+    <Main />
+    <Breadtext />
+    <order />
+  </div>
   );
 }
 

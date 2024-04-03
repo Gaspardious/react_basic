@@ -1,4 +1,28 @@
 
+* {
+  margin: 10;
+  padding: 0;
+}
+
+
 .title {
   color: red;
+}
+
+.header, .main, .breadtext {
+  background: #605858;
+  margin: 0 auto;
+  padding: 0;
+  width: 390px;
+  padding: 10px;
+  color: whitesmoke
+}
+
+.main__content {
+  margin: 0 auto;
+}
+
+.logo {
+  width: 64px;
+  height: 64px;
 }

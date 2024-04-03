@@ -1,8 +1,8 @@
 
 function Breadtext () {
     return (
-  <div>
-    <h1>Here is the breadtext</h1>
+  <div className="breadtext">
+
   </div>
   
     );
