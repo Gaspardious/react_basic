@@ -3,10 +3,9 @@
 
 function Receipt() {
     return (
-    <div className='receipt_button'>
-        <h1>Kvitto</h1>
+    <div className='receipt'>
+        <button className='receipt_button'>GET RECEIPT</button>
     </div>
-
     );
   }
   

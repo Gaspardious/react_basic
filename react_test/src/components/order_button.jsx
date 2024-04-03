@@ -2,8 +2,8 @@
 
 function Order () {
     return (
-    <div className='order_button'>
-        <h1>BESTÄLL MER</h1>
+    <div className='order'>
+        <button className='order_button'>ORDER MORE</button>
     </div>
 
     );
